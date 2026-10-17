@@ -13,7 +13,7 @@ Support & Triage: GitHub Issues, Supabase SQL Editor, Postman
 Currently Learning: Linux/Unix Command Line, JavaScript, Auth
 
 📂 Featured Proof of Work
-PostgreSQL Support Diagnostics: A simulated database environment mimicking a managed infrastructure provider. Contains a master diagnostics journal covering multi-table joins, explicit data casting, and incident triage.
+PostgreSQL Support Diagnostics: A simulated database environment mimicking a managed infrastructure provider. Contains a master diagnostics journal covering multi-table joins, explicit data casting, and incident triage. https://github.com/ganiya-sudo/SQL-Diagnostics-From-Basic-to-PRO/tree/main
 
 Open-Source Bug Triage: Actively monitoring and reproducing issues in the Supabase repository, providing environment details, and validating community fixes.
 
@@ -25,5 +25,5 @@ Contributing to the Supabase open-source community by reproducing bugs and testi
 📫 Connect with me
 LinkedIn: linkedin.com/in/ganiya-duro
 
-Email: (Put your email here)
+Email: ganiyadurojaiye@gmail.com
 
