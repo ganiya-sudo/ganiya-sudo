@@ -26,8 +26,7 @@ Completing the Google IT Support Professional Certificate.
 
 Contributing to the Supabase open-source community by reproducing bugs and testing UI fixes.
 
-Connect with me
-
+**Connect With Me**
 LinkedIn: linkedin.com/in/ganiya-duro
 
 Email: ganiyadurojaiye@gmail.com
