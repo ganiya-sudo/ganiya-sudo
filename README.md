@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Ganiya 👋
+Customer Support → Technical Support Engineer | PostgreSQL | Open-Source Triage
 
-<!--
-**ganiya-sudo/ganiya-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 3+ years of experience in customer operations, data auditing, and QA. I am currently transitioning into Technical Support Engineering, focusing on relational databases (PostgreSQL) and open-source software.
 
-Here are some ideas to get you started:
+I build simulated database environments, triage bugs in open-source projects, and translate complex system issues into plain-English guidance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech & Tools I Work With
+Databases: PostgreSQL, MySQL
+
+Support & Triage: GitHub Issues, Supabase SQL Editor, Postman
+
+Currently Learning: Linux/Unix Command Line, JavaScript, Auth
+
+📂 Featured Proof of Work
+PostgreSQL Support Diagnostics: A simulated database environment mimicking a managed infrastructure provider. Contains a master diagnostics journal covering multi-table joins, explicit data casting, and incident triage.
+
+Open-Source Bug Triage: Actively monitoring and reproducing issues in the Supabase repository, providing environment details, and validating community fixes.
+
+🌱 What I'm Working On
+Completing the Google IT Support Professional Certificate.
+
+Contributing to the Supabase open-source community by reproducing bugs and testing UI fixes.
+
+📫 Connect with me
+LinkedIn: linkedin.com/in/ganiya-duro
+
+Email: (Put your email here)
+
