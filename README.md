@@ -22,6 +22,9 @@ https://github.com/ganiya-sudo/SQL-Diagnostics-From-Basic-to-PRO
 **Open-Source Bug Triage:** Actively monitoring and reproducing issues in the Supabase repository, providing environment details, and validating community fixes.
 https://github.com/ganiya-sudo/supabase-bug-triage
 
+**How I Troubleshoot Slow Queries in PostgreSQL**: A technical article breaking down database performance tuning using EXPLAIN ANALYZE, index creation, and query execution plans. 
+https://www.linkedin.com/pulse/how-i-troubleshoot-slow-queries-postgresql-using-ganiya-durojaiye-0jzkf
+
 **What I'm Working On**
 
 Completing the Google IT Support Professional Certificate.
