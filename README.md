@@ -16,7 +16,7 @@ I build simulated database environments, triage bugs in open-source projects, an
 
 **Featured Proof of Work**
 
-PostgreSQL Support Diagnostics: A simulated database environment mimicking a managed infrastructure provider. Contains a master diagnostics journal covering multi-table joins, explicit data casting, and incident triage.
+**PostgreSQL Support Diagnostics:** A simulated database environment mimicking a managed infrastructure provider. Contains a master diagnostics journal covering multi-table joins, explicit data casting, and incident triage.
 https://github.com/ganiya-sudo/SQL-Diagnostics-From-Basic-to-PRO
 
 **Open-Source Bug Triage:** Actively monitoring and reproducing issues in the Supabase repository, providing environment details, and validating community fixes.
