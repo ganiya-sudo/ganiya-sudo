@@ -2,7 +2,7 @@ Hi, I'm Ganiya
 
 **Technical Support Engineer | PostgreSQL | Open-Source Triage**
 
-I have 3+ years of experience in customer operations, data auditing, and technical QA. I focus on relational databases (PostgreSQL) and open-source software.
+I have 3+ years of experience in customer operations, data auditing, and technical QA.
 
 I build simulated database environments, triage bugs in open-source projects, and translate complex system issues into plain-English guidance.
 
@@ -10,7 +10,7 @@ I build simulated database environments, triage bugs in open-source projects, an
 
 **Databases:** PostgreSQL, MySQL
 
-**Support & Triage:** GitHub Issues, Supabase SQL Editor
+**Support & Triage:** GitHub Issues
 
 **Currently Learning:** Linux/Unix Command Line, JavaScript, Python, Auth
 
