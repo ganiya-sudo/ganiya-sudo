@@ -23,8 +23,9 @@ I build simulated database environments, triage bugs in open-source projects, an
 * Deepening my PostgreSQL knowledge and practicing complex SQL queries.
 * Learning JavaScript to better understand API integrations and frontend troubleshooting.
 * Contributing to the Supabase open-source community.
+* Working on Customer Pulse
 
 **Connect With Me**
 
-* **LinkedIn:** [ganiya-duro](https://linkedin.com/in/ganiya-duro)
+* **LinkedIn:** [linkedin.com/in/ganiya-duro](https://linkedin.com/in/ganiya-duro)
 * **Email:** ganiyadurojaiye@gmail.com
