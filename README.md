@@ -26,5 +26,5 @@ I build simulated database environments, triage bugs in open-source projects, an
 
 **Connect With Me**
 
-* **LinkedIn:** [linkedin.com/in/ganiya-duro](https://linkedin.com/in/ganiya-duro)
+* **LinkedIn:** [ganiya-duro](https://linkedin.com/in/ganiya-duro)
 * **Email:** ganiyadurojaiye@gmail.com
